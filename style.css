@@ -29,7 +29,7 @@ form {
     display: block;
     text-align: center;
     text-decoration: none;
-    
+    border-radius: 10px;
   }
   a:hover {
     opacity: 0.8;
