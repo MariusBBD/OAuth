@@ -3,12 +3,12 @@ form {
     border: 3px solid #f1f1f1;
   }
   
-  #signIn {
-	  /*
+  /*#signIn {
+	  
 	  border: 1px solid #000;
 	  border-radius: 5px;
 	  padding: 10px;
-	  */
+	  
 		
     	-webkit-appearance: button;
     	-moz-appearance: button;
@@ -16,7 +16,7 @@ form {
 
     	text-decoration: none;
     	color: initial;
-	}
+	}*/
 
   a {
     background-color: #04AA6D;
