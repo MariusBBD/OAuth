@@ -3,6 +3,12 @@ form {
     border: 3px solid #f1f1f1;
   }
   
+  #signin {
+	  border: 1px solid #000;
+	  border-radius: 5px;
+	  padding: 10px;
+	}
+
   
   /* Set a style for all buttons */
   button {
