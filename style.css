@@ -18,7 +18,21 @@ form {
     	color: initial;
 	}
 
-  
+  a {
+    background-color: #04AA6D;
+    color: white;
+    padding: 8px 0px;
+    margin: 8px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    display: block;
+    text-align: center;
+    text-decoration: none;
+    
+  }
+  a:hover {
+    opacity: 0.8;
   /* Set a style for all buttons */
   button {
     background-color: #04AA6D;
